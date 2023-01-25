@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pound27
 - 👀 I’m interested in computers and coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, and I want to learn C++.
 - 📫 How to reach me ... you don't. :)
 
 <!---
